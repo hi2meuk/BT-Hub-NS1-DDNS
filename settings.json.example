@@ -1,0 +1,7 @@
+{
+    "NS1_APIKEY": "your_api_key",
+    "NS1_DOMAIN": "your_ns1_domain_to_update.co.uk",
+    "CONNECTED_INTERVAL": 30,
+    "DISCONNECTED_INTERVAL": 5,
+    "LOG_LEVEL": "INFO"
+}
